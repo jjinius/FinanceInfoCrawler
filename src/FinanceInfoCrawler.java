@@ -28,7 +28,7 @@ public class FinanceInfoCrawler {
     private String requestGet(String targetURL) {
         URL url;
         HttpURLConnection connection = null;
-        //메렁  apfj니어리넝리d
+        //메렁  apfj니어리넝리dㅇㅇㅇ        ㅇ
 
 
         try {
