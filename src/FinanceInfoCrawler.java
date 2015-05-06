@@ -28,6 +28,7 @@ public class FinanceInfoCrawler {
     private String requestGet(String targetURL) {
         URL url;
         HttpURLConnection connection = null;
+        //메렁
 
         try {
             // Create connection

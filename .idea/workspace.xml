@@ -4,7 +4,7 @@
     <list default="true" id="59be743c-c5bc-4d2a-bae2-d2926ece454b" name="Default" comment="" />
     <ignored path="financeInfoCrawler.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/FinanceInfoCrawler.java" changelist="59be743c-c5bc-4d2a-bae2-d2926ece454b" time="1430919111661" ignored="false" />
+    <file path="/FinanceInfoCrawler.java" changelist="59be743c-c5bc-4d2a-bae2-d2926ece454b" time="1430919685971" ignored="false" />
     <file path="/FinanceInfoCralwerExample.java" changelist="59be743c-c5bc-4d2a-bae2-d2926ece454b" time="1397318803939" ignored="false" />
     <file path="/a.dummy" changelist="59be743c-c5bc-4d2a-bae2-d2926ece454b" time="1396972765298" ignored="false" />
     <file path="/fragment.java" changelist="59be743c-c5bc-4d2a-bae2-d2926ece454b" time="1397486311150" ignored="false" />
@@ -16,7 +16,7 @@
     <file path="/StockBasicInfoCrawlerDAO.java" changelist="59be743c-c5bc-4d2a-bae2-d2926ece454b" time="1398608289294" ignored="false" />
     <file path="/WebService.java" changelist="59be743c-c5bc-4d2a-bae2-d2926ece454b" time="1397573744960" ignored="false" />
     <file path="/FinanceInfoCrawler.iml" changelist="59be743c-c5bc-4d2a-bae2-d2926ece454b" time="1430918990431" ignored="false" />
-    <file path="/.gitignore" changelist="59be743c-c5bc-4d2a-bae2-d2926ece454b" time="1430919371879" ignored="false" />
+    <file path="/.gitignore" changelist="59be743c-c5bc-4d2a-bae2-d2926ece454b" time="1430919877801" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +115,7 @@
       <file leaf-file-name="FinanceInfoCrawler.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FinanceInfoCrawler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="178" selection-start="1755" selection-end="1755" vertical-scroll-proportion="0.0">
+            <state line="30" column="12" selection-start="860" selection-end="860" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -124,7 +124,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="4" selection-start="578" selection-end="578" vertical-scroll-proportion="0.79793817">
+            <state line="45" column="6" selection-start="590" selection-end="590" vertical-scroll-proportion="0.83505154">
               <folding />
             </state>
           </provider>
@@ -614,14 +614,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FinanceInfoCrawler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="178" selection-start="1755" selection-end="1755" vertical-scroll-proportion="0.0">
+        <state line="30" column="12" selection-start="860" selection-end="860" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="4" selection-start="578" selection-end="578" vertical-scroll-proportion="0.79793817">
+        <state line="45" column="6" selection-start="590" selection-end="590" vertical-scroll-proportion="0.83505154">
           <folding />
         </state>
       </provider>
