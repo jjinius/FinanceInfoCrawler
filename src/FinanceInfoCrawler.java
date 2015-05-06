@@ -30,6 +30,7 @@ public class FinanceInfoCrawler {
         HttpURLConnection connection = null;
         //메렁  apfj니어리넝리d
 
+
         try {
             // Create connection
             url = new URL(targetURL);
