@@ -9,6 +9,7 @@ public class FinanceInfoCrawlerExample {
         // TODO: 교석오빠 STOCKCD를 긁어와서 FOR문으로 돌린다.
         // TODO: 네이버에서 주는 정보가 바뀔 경우 알럿을 줄수 있는 로직 추가가 필요하다.
 
+        //룰룰
         StockBasicInfoCrawlerDAO dao = new StockBasicInfoCrawlerDAO();
         ArrayList list = dao.getStockMasterInfo();
 
