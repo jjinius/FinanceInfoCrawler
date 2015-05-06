@@ -1,0 +1,14 @@
+[
+    [
+     "2010/12<br><span class='multi-row'>(GAAP개별)</span>",
+     "2011/12<br><span class='multi-row'>(IFRS별도)</span>",
+     "2012/12<br><span class='multi-row'>(IFRS별도)</span>",
+     "2013/12<br><span class='multi-row'>(IFRS별도)</span>"
+     ],
+    [
+     "2013/03<br><span class='multi-row'>(IFRS별도)</span>",
+     "2013/06<br><span class='multi-row'>(IFRS별도)</span>",
+     "2013/09<br><span class='multi-row'>(IFRS별도)</span>",
+     "2013/12<br><span class='multi-row'>(IFRS별도)</span>"
+     ]
+]
